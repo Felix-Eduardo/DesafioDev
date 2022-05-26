@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "lista1",
+        "lista2",
+        "lista3",
+        "lista4"
+    ],
+    "editor.cursorSmoothCaretAnimation":true
+}
